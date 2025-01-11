@@ -1,0 +1,27 @@
+
+body{
+    background-color: floralwhite;
+}
+
+.header{
+    background-color: darkolivegreen;
+}
+
+
+.horizontal
+{ 
+    list-style-type: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    width: 1350px;
+    height: 50px;}
+
+.horizontal li
+{display: inline-block;
+    font-size: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 10px;
+    color: whitesmoke;
+    cursor: pointer;}
